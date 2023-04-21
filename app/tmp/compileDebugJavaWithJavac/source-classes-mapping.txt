@@ -1,0 +1,2 @@
+com/project/pradyotprakash/flashchat/BuildConfig.java
+ com.project.pradyotprakash.flashchat.BuildConfig
